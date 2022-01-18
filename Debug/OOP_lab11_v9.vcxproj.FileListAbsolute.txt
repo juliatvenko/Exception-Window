@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\OOP_lab11_v9\Debug\OOP_lab11_v9.exe
+C:\Users\User\source\repos\OOP_lab11_v9\Debug\OOP_lab11_v9.pdb
